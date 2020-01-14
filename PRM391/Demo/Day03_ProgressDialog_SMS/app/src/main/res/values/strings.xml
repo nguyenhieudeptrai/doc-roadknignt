@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Day03_ProgressDialog_SMS</string>
+    <string name="title_activity_sms">SMSActivity</string>
+</resources>
