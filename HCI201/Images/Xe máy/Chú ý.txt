@@ -1,0 +1,4 @@
+Đây là ảnh transparent background (ko nền), định dạng .png.
+Ảnh này cứ cắt (crop) là sẽ bị đen thui hết, không nhìn được gì do sau khi crop
+nó bị chuyển thành định dạng .jpg.
+Mà .jpg không hỗ trợ ảnh không nền nên nó tự chuyển tất cả pixel transparent thành đen.
